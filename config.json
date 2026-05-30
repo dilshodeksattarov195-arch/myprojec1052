@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authdalidate",
+        "uuid": 5434632,
+        "checksum": "tntr3"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
